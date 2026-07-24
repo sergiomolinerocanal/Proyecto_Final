@@ -25,7 +25,7 @@
 
     Extraer conclusiones ejecutivas
 
-![Dashboard Grupo SaDaAm](img/dashboard.png)
+![Dashboard Grupo SaDaAm](img/CdM.png)
 
 
 ## 3. Contenido del repositorio
